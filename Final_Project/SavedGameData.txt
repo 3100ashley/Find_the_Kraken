@@ -1,0 +1,11 @@
+row:5
+column:5
+(1,4) = PlayerLocation
+(3,0) = KrakenLocation
+(1,0) = snakeLoc
+(2,0) = powerupLoc
+(0,1) = snakeLoc
+(1,1) = powerupLoc
+(1,3) = trapLoc
+(0,4) = snakeLoc
+(4,4) = trapLoc

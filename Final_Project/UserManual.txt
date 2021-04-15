@@ -1,0 +1,14 @@
+Welcome to Adventure Into The Ocean. You are equipped with a 3 powers to your magic wand to find and defeat the Kraken.
+You will go through the caves blindly. Make sure to be aware of your surroundings. There's a possibility of drowning to
+death, a snake stealing a power, a power up, and of course the Kraken it's self. The Kraken should be asleep. Try to shoot 
+if you feel the Kraken is near by, but be careful. The sound of your magic wand will awaken the Kraken and he will move. 
+If he moves to the cave you are in, game over. Good luck.
+
+HOW TO PLAY
+Select if you would like to play or not to play on debug mode.
+Choose the size of the grid you would like to play on.
+Click start for a new game or continue to continue to play from a previous game.
+You are the star player. Use the buttons "move player" to move your pawn left, right, up, or down.
+As you move you will see messages about your surrounding, but you are blind as to which cell they are in.
+If you are near give your best guess and shoot left, right, up, or down.
+The Kraken will move to an adjecent room if you miss. The room could possibly be the room you are in.
